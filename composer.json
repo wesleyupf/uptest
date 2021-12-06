@@ -1,0 +1,18 @@
+{
+  "authors": [
+    {
+      "name": "Agência UPFlex",
+      "email": "agencia.upflex@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "UpTest\\": "src/",
+      "UPFlex\\MixUp\\": "../../private/libs/vendor/upflex/mixup/src"
+    }
+  },
+  "description": "Tema filho do Hello Elementor",
+  "name": "wesley/up-test",
+  "type": "project",
+  "require": {}
+}
